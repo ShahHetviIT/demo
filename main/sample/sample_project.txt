@@ -5,3 +5,4 @@ How to use github?
 4. git branch -M main
 5. git remote add origin https://github.com/ShahHetviIT/hello.git
 6. git push -u origin main
+7. commit the code
